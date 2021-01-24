@@ -10,9 +10,11 @@ public class TestController {
 
     @RequestMapping("test")
     public String hello(){
-        for (int i = 0;i < 8; i++) {
-            log.debug(i + "sssssssssssssssssssssssssssssssssssssssss");
-        }
+        log.debug("5");
+        log.info("5");
+        log.warn("5");
+        log.error("5");
+        log.trace("5");
         return "hello";
     }
 }

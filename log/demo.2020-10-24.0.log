@@ -1,0 +1,12 @@
+2020-10-24 20:49:26,505 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on DESKTOP-CGN4PI4 with PID 10492 (D:\work\springboot-logback\target\classes started by 85464 in D:\work\springboot-logback)
+2020-10-24 20:49:26,513 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2020-10-24 20:49:26,514 INFO (SpringApplication.java:647)- No active profile set, falling back to default profiles: default
+2020-10-24 20:49:28,044 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 2.006 seconds (JVM running for 3.684)
+2020-10-24 20:55:17,096 DEBUG (TestController.java:14)- 0sssssssssssssssssssssssssssssssssssssssss
+2020-10-24 20:55:17,097 DEBUG (TestController.java:14)- 1sssssssssssssssssssssssssssssssssssssssss
+2020-10-24 20:55:17,119 DEBUG (TestController.java:14)- 2sssssssssssssssssssssssssssssssssssssssss
+2020-10-24 20:55:17,119 DEBUG (TestController.java:14)- 3sssssssssssssssssssssssssssssssssssssssss
+2020-10-24 20:55:17,120 DEBUG (TestController.java:14)- 4sssssssssssssssssssssssssssssssssssssssss
+2020-10-24 20:55:17,120 DEBUG (TestController.java:14)- 5sssssssssssssssssssssssssssssssssssssssss
+2020-10-24 20:55:17,120 DEBUG (TestController.java:14)- 6sssssssssssssssssssssssssssssssssssssssss
+2020-10-24 20:55:17,120 DEBUG (TestController.java:14)- 7sssssssssssssssssssssssssssssssssssssssss
